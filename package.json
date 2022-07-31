@@ -1,0 +1,14 @@
+{
+  "name": "@istanbul/auth",
+  "version": "0.0.1",
+  "description": "Auth Group of Istanbul Framework",
+  "keywords": [
+    "istanbul",
+    "istanbuljs",
+    "jwt",
+    "passport",
+    "passwordless"
+  ],
+  "author": "Sami Salih İBRAHİMBAŞ",
+  "license": "MIT"
+}
